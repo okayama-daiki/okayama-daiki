@@ -15,7 +15,8 @@
 
 ## Repositories Overview
 
-| Repo                                                                                               | CI status                                                                                                   |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [@okayama-daiki/snake-game](https://github.com/okayama-daiki/snake-game)                           | <img src="https://github.com/okayama-daiki/snake-game/actions/workflows/static.yml/badge.svg"/>             |
-| [@okayama-daiki/okayama-daiki.github.io](https://github.com/okayama-daiki/okayama-daiki.github.io) | <img src="https://github.com/okayama-daiki/okayama-daiki.github.io/actions/workflows/ci-cd.yml/badge.svg"/> |
+| Repo                                                                                               | CI status                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [@okayama-daiki/snake-game](https://github.com/okayama-daiki/snake-game)                           | <a href="https://github.com/okayama-daiki/snake-game/actions/workflows/static.yml"><img src="https://github.com/okayama-daiki/snake-game/actions/workflows/static.yml/badge.svg"/></a>                         |
+| [@okayama-daiki/okayama-daiki.github.io](https://github.com/okayama-daiki/okayama-daiki.github.io) | <a href="https://github.com/okayama-daiki/okayama-daiki.github.io/actions/workflows/ci-cd.yml"><img src="https://github.com/okayama-daiki/okayama-daiki.github.io/actions/workflows/ci-cd.yml/badge.svg"/></a> |
+| [@Dakken-LLC/Dakken-LLC.github.io](https://github.com/Dakken-LLC/Dakken-LLC.github.io)             | <a href="https://github.com/Dakken-LLC/Dakken-LLC.github.io/actions/workflows/ci-cd.yml"><img src="https://github.com/Dakken-LLC/Dakken-LLC.github.io/actions/workflows/ci-cd.yml/badge.svg"/></a>             |
