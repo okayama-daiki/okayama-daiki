@@ -32,8 +32,15 @@ You can find more on [Qiita](https://qiita.com/daiki-okayama) and [SlideShare](h
 
 ## Ideas
 
+<details>
+<summary>Click to expand</summary>
+
+<br />
+
 > These ideas are open for exploration and reuse.  
 > If you have insights, suggestions, or related work, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/daikiokayama/).
 
 - [ ] A CLI tool to correct commit messages
 - [ ] A visualization tool to display citation relationships between theorems
+
+</details>
