@@ -2,7 +2,7 @@
 
 ![Visit Counter](https://komarev.com/ghpvc/?username=okayama-daiki&abbreviated=true&style=for-the-badge)
 [![Website](https://img.shields.io/badge/website-okayama.daiki.dev-444444?style=for-the-badge)](https://okayama.daiki.dev)
-![Editor: Vim](https://img.shields.io/badge/Editor-Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Editor: Vim](https://img.shields.io/badge/Editor-Vim_keybindings-%2311AB00.svg?style=for-the-badge&logoColor=white)
 
 **I am a hobbyist programmer based in Japan 🇯🇵**
 
