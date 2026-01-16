@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/website-okayama.daiki.dev-444444?style=for-the-badge)](https://okayama.daiki.dev)
 ![Editor: Vim](https://img.shields.io/badge/Editor-Vim_keybindings-%2311AB00.svg?style=for-the-badge&logoColor=white)
 
-**I am a hobbyist programmer based in Japan 🇯🇵**
+**I am a hobbyist programmer in Japan 🇯🇵**
 
 ```ts
 > me.name
