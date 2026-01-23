@@ -26,7 +26,7 @@
 Occasionally write notes or short articles on a wide range of topics.
 
 - [What Is an Object in Python? (Available in Japanese)](https://qiita.com/daiki-okayama/items/51b9d188ad1e6c180d1c)
-- [Why Does Solving the Eigenvalue Problem of the Covariance Matrix Maximize Variance in PCA? (Available in Japanese)](https://giita.com)
+<!-- - [Why Does Solving the Eigenvalue Problem of the Covariance Matrix Maximize Variance in PCA? (Available in Japanese)](https://giita.com) -->
 
 You can find more on [Qiita](https://qiita.com/daiki-okayama) and [SlideShare](https://www.slideshare.net/DaikiOkayama).
 
