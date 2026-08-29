@@ -10,10 +10,6 @@
 > import { me } from "jsr:@okayama/daiki"
 > me.name
 "Daiki Okayama"
-> me.interests
-[ "programming languages", "algorithms" ]
-> me.currentFocus
-[ "software architecture", "design patterns" ]
 ```
 
 ## Writing
